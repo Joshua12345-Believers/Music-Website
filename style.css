@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.web-page{
+    background: url("images/pattern-background-desktop.svg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+
+.order-card{
+    margin-top: 30px;
+    background-color: white;
+    text-align: center;
+}
+h1{
+    font-size: 25px;
+    padding-bottom: 15px;
+
+}
+.order-plan{
+    display: flex;
+    padding: 35px;
+}
+
+.order-plan img{
+    padding-right: 5px;
+}
+button{
+    color: white;
+    background-color: blueviolet;
+    padding: 20px;
+    width: 80%;
+    border-radius: 7px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    border: none;
+}
+.btn2{
+    background-color: transparent;
+    color:black;
+    cursor: pointer;
+    font-weight: 700;
+    border: none;
+
+}
+.second-div{
+    padding-right: 155px;
+}
+.text-a{
+    font-weight: 700;
+}
+.text-c{
+    color: blueviolet;
+    font-weight: 700;
+
+}
+
+    
